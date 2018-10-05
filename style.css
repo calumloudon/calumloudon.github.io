@@ -10,6 +10,10 @@ body {
 
 }
 
+h1 {
+	margin: 0;
+}
+
 .gary {
     width: 200px;
     height: 20px;
